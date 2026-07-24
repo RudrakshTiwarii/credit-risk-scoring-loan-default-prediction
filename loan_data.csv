@@ -1,0 +1,1011 @@
+Age,Income,LoanAmount,CreditScore,EmploymentStatus,LoanTerm,PreviousDefaults,DebtToIncomeRatio,MaritalStatus,Education,Default
+54,48314.06,10689.27,576.0,Unemployed,36,1,0.35,Single,Masters,0
+36,44622.81,10249.51,747.0,Employed,36,0,0.45,Single,High School,0
+30,58067.49,29370.89,597.0,Employed,24,0,0.34,Divorced,High School,1
+56,64779.36,25230.93,547.0,Employed,24,0,0.15,Single,High School,0
+53,56730.17,17798.4,593.0,Self-Employed,48,2,0.41,Single,Masters,1
+43,69144.4,17112.16,572.0,Unemployed,60,0,0.32,Divorced,Bachelors,1
+57,70905.88,1000.0,740.0,Unemployed,24,1,0.3,Single,High School,0
+23,30799.89,1369.03,707.0,Retired,36,0,0.43,Single,Masters,0
+65,72671.78,25629.13,753.0,Self-Employed,60,3,0.33,Married,Bachelors,0
+32,60021.89,10804.41,645.0,Retired,48,0,0.36,Married,Masters,1
+32,84902.67,22035.34,633.0,Employed,36,3,0.32,Married,Bachelors,1
+59,36193.43,1000.0,528.0,Employed,36,1,0.52,Single,Bachelors,1
+32,36038.52,19579.12,701.0,Self-Employed,24,1,0.28,Single,High School,1
+60,54724.42,5773.34,568.0,Employed,60,1,0.37,Single,Bachelors,1
+41,66497.14,18929.66,648.0,Unemployed,60,0,0.61,Single,High School,0
+41,51886.97,14380.45,638.0,Employed,36,0,0.35,Single,Bachelors,0
+62,42741.07,14450.93,415.0,Employed,48,0,0.32,Single,Bachelors,1
+57,52587.69,15418.07,,Employed,36,0,0.37,Single,High School,0
+25,58619.78,23389.66,445.0,Unemployed,36,2,0.36,Single,Bachelors,1
+37,62864.89,6789.05,689.0,Self-Employed,48,2,0.31,Married,Bachelors,0
+53,58273.59,23771.75,684.0,Self-Employed,36,0,0.37,Single,Bachelors,1
+53,82553.51,22310.17,626.0,Employed,24,1,0.33,Single,High School,0
+48,81928.8,25199.0,630.0,Employed,24,3,0.28,Single,Bachelors,1
+49,48476.06,2884.24,671.0,,12,0,0.66,Married,Masters,0
+31,48672.76,13123.04,608.0,Employed,36,0,0.43,Single,Bachelors,0
+31,47270.7,18403.56,635.0,Retired,48,0,0.22,Married,Masters,1
+53,74416.26,10307.75,608.0,Employed,12,0,0.27,Single,High School,1
+32,59467.97,9994.58,705.0,Employed,36,2,0.79,Single,Bachelors,1
+53,84311.14,22503.32,705.0,Self-Employed,48,0,0.57,Single,PhD,0
+39,45444.36,1000.0,779.0,Employed,24,0,0.18,Single,High School,0
+31,68002.86,12582.56,602.0,Employed,36,2,0.3,Divorced,Masters,1
+21,54141.2,17309.79,719.0,Employed,24,1,0.13,Married,Masters,0
+42,15000.0,10147.97,561.0,Employed,36,2,0.5,Married,Bachelors,1
+55,44160.18,26011.97,844.0,Retired,36,0,0.47,Single,High School,0
+57,31952.27,16159.1,704.0,Self-Employed,24,3,0.23,Married,High School,1
+56,34425.91,12135.76,629.0,Employed,36,0,0.43,Married,Bachelors,0
+26,40771.46,20636.05,659.0,Employed,24,1,0.43,Single,Bachelors,0
+48,54704.39,17337.54,515.0,Employed,48,3,0.28,Single,Masters,1
+65,62928.55,1000.0,597.0,Employed,48,0,0.34,Single,High School,0
+23,63205.98,30932.43,560.0,Employed,36,0,0.59,Single,Bachelors,0
+60,51056.19,14598.36,541.0,Employed,36,0,0.37,Married,Masters,1
+40,73433.13,13534.8,713.0,Employed,24,1,0.44,Single,Bachelors,0
+56,55264.39,6515.16,540.0,Self-Employed,36,0,0.29,Married,Masters,0
+23,52146.47,30626.07,773.0,Employed,60,0,0.11,Single,Masters,0
+46,58358.96,20349.24,600.0,Retired,48,0,0.29,Married,Masters,1
+37,67274.05,1000.0,648.0,Employed,24,2,0.26,Married,Masters,0
+28,28379.59,18665.34,508.0,Employed,24,0,0.2,Married,Masters,1
+37,52401.51,19426.01,741.0,Employed,12,1,0.43,Single,High School,1
+28,77084.8,14713.4,817.0,Employed,12,0,0.37,Married,Masters,0
+29,77429.53,9425.83,631.0,Employed,12,1,0.46,Married,Bachelors,0
+47,52406.42,10285.83,619.0,Unemployed,24,0,0.51,Married,High School,1
+57,57201.36,16778.32,708.0,Employed,36,0,0.4,Married,High School,0
+33,70488.52,19178.01,648.0,Employed,36,0,0.32,Single,Bachelors,0
+55,92381.46,6062.51,466.0,Employed,24,0,0.23,Married,Bachelors,0
+44,51664.82,17270.01,598.0,Retired,48,0,0.81,Single,Masters,0
+49,56073.35,11691.16,587.0,Employed,36,0,0.2,Single,High School,0
+21,101320.48,9737.32,677.0,Employed,48,2,0.29,Single,Bachelors,0
+29,16247.97,12695.69,764.0,Employed,36,0,0.53,Single,High School,0
+57,55186.35,12108.3,703.0,Employed,24,3,0.24,Single,Bachelors,1
+48,15000.0,19418.4,717.0,Self-Employed,48,0,0.33,Single,Masters,0
+45,58439.78,2862.61,641.0,Employed,12,0,0.32,Single,High School,0
+55,67833.97,17529.25,745.0,Unemployed,36,1,0.24,Single,High School,0
+53,74325.37,9249.34,492.0,Self-Employed,24,0,0.29,Single,PhD,0
+64,73675.72,21787.45,461.0,Employed,12,0,0.27,Married,Bachelors,1
+55,34741.2,14947.83,644.0,Self-Employed,48,0,0.06,Single,High School,0
+33,45590.99,18094.47,678.0,Unemployed,36,0,0.17,Married,Bachelors,1
+51,93560.87,24231.21,545.0,Employed,36,3,0.09,Married,Bachelors,0
+40,15000.0,21844.45,578.0,Employed,12,0,0.77,Single,High School,1
+48,58525.21,24847.0,632.0,Employed,60,2,0.48,Married,Masters,1
+53,76391.08,13501.37,586.0,Unemployed,48,0,0.37,Married,High School,0
+46,94789.41,14687.84,731.0,Employed,48,0,0.31,Married,Bachelors,0
+30,72220.64,22011.65,572.0,Retired,12,1,0.08,Single,High School,0
+28,95543.84,15875.27,625.0,Self-Employed,60,2,,Married,Bachelors,1
+34,86492.38,18609.8,650.0,Employed,12,0,0.25,Married,Bachelors,0
+50,45284.33,9060.13,679.0,Employed,24,0,0.32,Single,Masters,0
+24,80569.08,24743.67,730.0,Retired,12,0,0.49,Married,High School,0
+41,31386.95,18331.57,684.0,Employed,36,0,0.22,Married,Masters,1
+43,68890.58,17539.63,718.0,Employed,36,3,0.37,Single,Bachelors,0
+34,35139.4,9978.13,602.0,Employed,60,2,0.54,Divorced,High School,1
+52,71543.38,28411.14,683.0,Employed,36,1,0.25,Single,Bachelors,0
+59,47179.07,14236.29,506.0,Self-Employed,12,0,0.74,Single,Bachelors,1
+63,43416.67,10599.08,731.0,Employed,36,0,0.23,Single,PhD,0
+59,92011.73,17020.55,696.0,Unemployed,48,3,0.42,Divorced,Bachelors,1
+64,36564.64,25236.15,632.0,Employed,36,1,0.46,Single,High School,0
+41,63485.48,13155.8,630.0,Employed,48,0,0.08,Married,Masters,0
+26,53737.02,11351.03,676.0,Retired,48,2,0.34,Single,Bachelors,0
+37,76835.76,7669.81,563.0,Self-Employed,36,0,0.79,Divorced,High School,1
+64,63058.75,6149.65,668.0,Employed,36,2,0.24,Single,Bachelors,0
+63,63892.54,12691.61,597.0,Self-Employed,48,0,0.61,Married,Bachelors,0
+48,25955.89,29457.57,690.0,Employed,36,0,0.48,Single,Bachelors,0
+33,74947.29,9163.18,555.0,Employed,36,0,0.38,Married,Masters,0
+48,58075.58,30700.7,575.0,Employed,12,0,0.36,Married,Bachelors,1
+42,59380.11,1956.21,646.0,Self-Employed,36,0,0.25,Single,Masters,0
+47,54508.52,10792.96,607.0,Self-Employed,12,0,0.54,Married,PhD,0
+55,51991.87,1000.0,629.0,Employed,48,0,0.3,Single,High School,0
+31,41911.53,12950.56,601.0,Self-Employed,48,0,0.05,Single,Bachelors,0
+26,61843.56,5374.39,530.0,Employed,36,1,0.27,Single,Bachelors,1
+57,26489.75,19347.84,588.0,Employed,36,0,0.2,Divorced,High School,1
+48,67941.16,14209.24,628.0,Employed,36,3,0.25,Single,Bachelors,1
+41,71444.52,20124.34,439.0,Self-Employed,24,2,0.23,Married,Bachelors,1
+42,46731.5,4446.02,664.0,Retired,12,0,0.32,Single,Masters,1
+60,68063.8,15655.96,590.0,Employed,48,3,0.61,Single,Bachelors,1
+46,41071.79,10162.04,660.0,Employed,60,0,,Married,Bachelors,0
+55,69768.68,16130.06,694.0,Unemployed,24,0,0.51,Married,PhD,0
+54,86900.53,26608.01,549.0,Employed,24,0,0.22,Single,Bachelors,0
+46,51850.72,16733.0,,Self-Employed,48,0,0.54,Single,Bachelors,0
+31,58565.53,16374.71,569.0,Employed,24,0,0.62,Married,Masters,1
+49,63864.12,6221.58,568.0,Employed,48,3,0.05,Divorced,Bachelors,1
+48,68378.75,26853.31,699.0,Employed,48,0,0.32,Married,High School,1
+49,36734.38,23469.83,525.0,Employed,48,0,0.45,Single,Masters,1
+61,61237.07,20541.78,724.0,Employed,36,2,0.27,Single,Bachelors,1
+60,43275.58,5871.93,671.0,Employed,36,0,0.38,Married,Masters,0
+22,30396.18,20431.45,705.0,Self-Employed,48,1,0.54,Married,Bachelors,0
+45,79401.48,5482.67,,Employed,36,1,0.62,Single,Masters,1
+24,70092.83,17704.19,585.0,Retired,36,0,0.26,Divorced,Bachelors,0
+42,48021.37,12537.53,517.0,Employed,48,0,0.53,Married,High School,1
+49,79217.56,26283.67,597.0,Unemployed,24,0,0.29,Married,PhD,1
+27,29987.7,11327.28,690.0,Employed,24,0,0.26,Single,Bachelors,0
+48,63922.27,5324.18,570.0,Employed,12,1,0.13,Single,High School,1
+25,84046.8,1150.39,704.0,Employed,24,0,0.3,Married,High School,0
+41,47002.72,24600.63,652.0,Employed,60,0,0.4,Single,PhD,1
+64,59692.13,8729.97,626.0,Employed,12,3,0.34,Married,Masters,1
+52,42342.82,21562.75,583.0,Employed,60,0,0.23,Married,High School,1
+39,67267.01,1000.0,586.0,Employed,48,1,0.59,Married,Bachelors,0
+51,66669.05,4723.33,708.0,Employed,24,1,0.58,Married,High School,0
+54,15000.0,12724.92,612.0,Employed,36,1,0.45,Single,High School,1
+58,71786.63,10878.25,719.0,Self-Employed,48,0,0.5,Married,Masters,0
+57,75111.32,28978.91,760.0,Employed,24,1,0.35,Married,High School,0
+46,71632.49,19976.56,691.0,Employed,12,1,0.54,Married,High School,0
+48,30343.55,1000.0,713.0,Employed,60,3,0.62,Single,Masters,1
+37,72964.18,9344.86,680.0,Employed,24,0,0.25,Single,PhD,0
+25,58321.92,10717.47,765.0,Employed,24,0,0.31,Married,PhD,0
+22,88373.67,1000.0,582.0,Employed,24,1,0.36,Single,Bachelors,0
+29,46200.71,1000.0,815.0,Employed,48,0,0.26,Single,High School,0
+39,76750.59,14615.29,628.0,Employed,12,0,0.28,Married,Bachelors,0
+50,71113.48,18888.29,650.0,Employed,24,1,0.15,Married,Bachelors,0
+29,58913.79,12734.89,637.0,Self-Employed,24,0,0.36,Divorced,High School,0
+56,62184.45,3805.55,718.0,Employed,48,1,0.41,Married,Bachelors,0
+49,38201.18,16422.0,513.0,Employed,36,0,0.68,Married,Masters,1
+58,66853.8,19278.54,563.0,Employed,24,1,0.26,Married,High School,0
+62,63486.43,21312.45,535.0,Employed,48,0,0.26,Single,Masters,0
+60,29079.08,9302.61,584.0,Employed,12,2,0.06,Single,Bachelors,1
+48,44529.74,1651.21,808.0,Self-Employed,24,1,0.02,Single,Masters,0
+37,48932.45,4262.98,696.0,Employed,12,0,0.02,Single,Bachelors,0
+36,53962.86,8953.67,570.0,Retired,12,0,0.32,Single,High School,0
+21,48300.28,10345.74,724.0,Employed,24,0,0.18,Married,Bachelors,0
+64,45484.9,14107.93,674.0,Employed,24,0,0.33,Divorced,Bachelors,1
+62,58361.8,16930.58,728.0,Self-Employed,12,3,0.32,Married,Masters,1
+56,37029.63,28007.67,659.0,Employed,24,0,0.52,Married,High School,1
+25,64244.8,20431.58,728.0,Employed,36,0,0.43,Married,Masters,1
+23,71108.64,27185.91,614.0,Employed,60,0,0.44,Single,Bachelors,1
+27,74647.12,20005.05,694.0,Employed,48,2,0.22,Single,Bachelors,0
+57,74597.48,5608.96,689.0,Retired,36,0,0.36,Married,High School,0
+23,50956.6,22149.58,629.0,Employed,60,1,0.48,Married,Bachelors,0
+57,67745.96,1000.0,746.0,Employed,36,0,0.14,Single,High School,0
+33,43313.0,13617.59,779.0,Retired,48,0,0.23,Divorced,Masters,0
+59,17525.27,12188.69,639.0,Employed,36,0,0.25,Single,High School,0
+25,62079.72,16074.37,558.0,Employed,36,0,0.27,Single,Masters,0
+21,45963.02,26781.37,530.0,Employed,36,2,0.02,Single,Masters,1
+57,84556.27,6691.65,549.0,Employed,24,0,0.02,Single,High School,0
+57,75686.92,17025.32,630.0,Employed,36,0,0.27,Single,Bachelors,0
+39,42613.29,5100.59,620.0,Employed,48,0,0.37,Married,Masters,0
+45,37389.29,28480.11,622.0,Self-Employed,24,0,0.43,Single,High School,1
+23,67797.28,21054.31,673.0,Employed,60,0,0.54,Single,Masters,0
+51,96747.93,24361.59,704.0,Employed,24,1,0.21,Single,High School,0
+53,33226.46,16184.72,679.0,Employed,36,0,0.36,Divorced,Bachelors,1
+48,65510.71,10790.02,585.0,Employed,12,0,0.19,Single,Bachelors,0
+54,101830.3,10515.14,593.0,Employed,48,2,0.37,Single,Bachelors,0
+53,61169.06,22457.53,479.0,Employed,48,0,0.32,Divorced,Bachelors,1
+42,58258.39,16127.86,547.0,Employed,48,3,0.42,Single,Masters,1
+32,85310.7,19881.73,594.0,Retired,24,0,0.51,Single,Bachelors,1
+46,56368.1,15368.02,682.0,Employed,48,0,0.47,Married,Masters,0
+41,65049.88,13095.12,685.0,Employed,24,0,0.18,Married,Bachelors,0
+23,63002.85,13250.77,633.0,Employed,24,0,0.53,Single,High School,0
+52,55684.06,16523.39,794.0,Self-Employed,12,0,0.37,Single,Masters,1
+24,58300.48,7162.23,683.0,Employed,36,0,0.23,Married,Bachelors,0
+47,65675.82,17670.88,660.0,,36,0,0.51,Married,Masters,0
+48,54704.39,17337.54,515.0,Employed,48,3,0.28,Single,Masters,1
+36,33623.23,6598.87,621.0,Employed,12,0,0.39,Married,High School,0
+22,74178.65,1000.0,571.0,Unemployed,36,1,0.37,Single,Bachelors,1
+22,53974.98,15988.38,615.0,Employed,48,0,0.42,Divorced,Masters,0
+54,46581.38,16802.11,764.0,Employed,36,0,0.47,Single,Bachelors,0
+46,54939.26,15409.58,601.0,Employed,24,0,0.23,Single,Masters,1
+59,60917.72,11708.05,707.0,Self-Employed,12,3,0.32,Married,Masters,0
+40,22983.04,22176.53,676.0,Retired,48,0,0.38,Married,Bachelors,0
+34,36782.12,28599.66,623.0,Unemployed,24,0,0.52,Single,High School,1
+26,52507.79,28565.78,656.0,Retired,48,2,0.43,Married,Masters,1
+49,65631.79,11919.83,612.0,Employed,60,0,0.34,Divorced,High School,0
+52,54330.0,21077.7,674.0,Employed,36,0,0.13,Married,Masters,0
+24,63586.73,28620.12,749.0,Retired,48,0,0.55,Divorced,Bachelors,1
+50,45683.0,7507.95,605.0,Retired,24,0,0.4,Single,Masters,0
+21,85106.3,7951.45,721.0,Employed,48,0,0.37,Divorced,Bachelors,0
+40,38464.26,7604.27,669.0,Employed,24,0,0.36,Single,High School,1
+55,76607.45,33171.6,667.0,Self-Employed,48,0,0.5,Single,Masters,0
+22,64784.8,5382.8,671.0,Self-Employed,24,1,0.24,Single,Bachelors,0
+40,59888.42,11696.02,637.0,Employed,24,0,0.32,Married,High School,0
+34,99023.54,19790.36,636.0,Employed,24,1,0.29,Divorced,Bachelors,0
+61,41760.46,16851.57,610.0,,24,1,0.4,Single,Bachelors,0
+44,54565.75,22121.98,755.0,Employed,24,0,0.49,Married,High School,0
+28,23685.15,10765.34,642.0,Employed,24,1,0.46,Single,High School,1
+62,60022.39,29788.87,607.0,Employed,12,0,0.41,Divorced,Masters,0
+55,45442.05,10687.02,684.0,Employed,12,0,0.17,Single,Bachelors,0
+34,48253.23,2715.42,666.0,Employed,48,0,0.65,Married,Bachelors,0
+38,73545.1,14547.29,609.0,Self-Employed,48,0,0.56,Divorced,Masters,1
+46,68687.46,16598.48,683.0,Employed,24,0,0.41,Married,High School,0
+53,52997.93,7973.42,508.0,Employed,24,0,0.17,Divorced,High School,0
+61,51333.87,2457.12,500.0,Self-Employed,36,0,0.38,Single,Bachelors,1
+56,28935.75,7886.07,613.0,Self-Employed,12,0,0.28,Divorced,Masters,0
+36,67750.42,13163.61,687.0,Retired,36,0,0.33,Single,Bachelors,0
+38,48955.88,29474.45,652.0,Employed,36,0,0.32,Divorced,Bachelors,1
+48,48454.98,10261.15,707.0,Self-Employed,24,2,0.59,Single,Masters,1
+32,37594.43,20859.94,600.0,Employed,36,0,0.34,Divorced,High School,0
+42,78215.55,15150.55,690.0,Employed,36,0,0.1,Married,Masters,0
+53,58562.39,23307.03,634.0,Employed,48,0,0.02,Divorced,Bachelors,0
+33,51335.55,37947.22,697.0,Employed,60,2,0.22,Married,PhD,1
+56,72349.82,21234.79,501.0,Self-Employed,24,0,0.39,Single,Bachelors,0
+30,62634.99,19413.93,551.0,Employed,48,0,0.31,Married,High School,0
+29,36522.72,20960.04,710.0,Self-Employed,24,1,0.66,Married,High School,0
+52,76538.29,9327.83,600.0,Unemployed,24,1,0.53,Single,Masters,1
+65,61733.02,23464.95,649.0,Unemployed,24,2,0.1,Married,Masters,1
+43,80023.74,31688.38,668.0,Employed,60,1,0.13,Divorced,Masters,1
+22,88239.47,17592.46,700.0,Self-Employed,12,2,0.43,Single,Masters,0
+59,73258.66,21831.81,787.0,Employed,24,0,0.54,Married,Bachelors,0
+46,60387.27,10488.42,589.0,Employed,36,0,0.44,Single,Masters,0
+63,33937.97,10844.83,735.0,Employed,48,0,0.45,Married,High School,0
+58,58456.88,15636.78,703.0,Employed,36,0,0.39,Single,Bachelors,0
+47,45558.64,12364.42,578.0,Unemployed,12,0,0.23,Divorced,Masters,1
+21,40272.42,15361.78,623.0,Self-Employed,48,2,0.61,Single,Masters,0
+21,57160.56,18593.75,749.0,Self-Employed,12,0,0.42,Single,Bachelors,0
+35,57535.95,26979.45,688.0,Employed,36,0,0.18,Single,High School,0
+38,66931.86,16164.17,790.0,Employed,48,1,0.38,Single,Masters,0
+37,69683.27,25769.81,568.0,Employed,12,0,0.27,Married,Masters,0
+36,45365.77,11231.0,725.0,Self-Employed,24,2,0.5,Single,High School,0
+26,67762.07,6547.54,702.0,Employed,60,0,0.73,Single,High School,0
+34,40116.15,35092.45,681.0,Unemployed,24,1,0.23,Divorced,High School,1
+36,18248.77,19816.95,710.0,Employed,24,2,0.46,Single,High School,0
+49,49940.19,15619.84,736.0,Employed,48,0,0.45,Single,High School,1
+25,96380.17,14608.82,632.0,Employed,24,0,0.14,Single,Masters,0
+27,59806.9,18856.53,478.0,Unemployed,48,0,0.15,Married,Masters,1
+25,58198.62,21996.14,537.0,Self-Employed,48,1,0.38,Single,Bachelors,1
+65,37205.36,22802.5,812.0,,36,0,0.34,Married,Masters,0
+23,15199.56,6104.26,647.0,Employed,60,0,0.32,Married,Masters,0
+50,58537.99,12430.06,722.0,Employed,60,1,0.35,Single,High School,0
+25,62082.74,4316.15,667.0,Employed,36,0,0.38,Single,Masters,0
+54,49775.06,7435.94,762.0,Employed,36,0,0.29,Married,Bachelors,0
+47,37154.94,21735.87,636.0,Unemployed,36,0,0.23,Married,Masters,0
+36,29246.05,17160.46,741.0,Employed,48,3,0.6,Single,Masters,1
+56,62740.75,17479.99,552.0,Unemployed,60,2,0.34,Divorced,PhD,1
+24,60086.44,22112.3,620.0,Employed,60,1,0.11,Married,High School,1
+43,93970.04,8343.51,577.0,Unemployed,60,0,0.26,Married,Masters,0
+41,92354.7,4702.69,588.0,Employed,36,0,0.53,Married,PhD,0
+22,62551.58,1000.0,766.0,Employed,48,0,0.22,Single,High School,0
+46,75894.88,15147.21,639.0,Employed,48,0,0.38,Married,Masters,0
+60,54277.16,1000.0,634.0,Employed,60,0,0.6,Married,Bachelors,0
+59,62348.55,19503.05,648.0,Retired,48,0,0.31,Divorced,High School,0
+45,26993.88,1000.0,724.0,Employed,60,0,0.39,Single,Bachelors,0
+43,86586.3,15191.22,802.0,Employed,48,0,0.36,Married,High School,0
+30,62124.46,9324.47,581.0,Employed,24,0,0.42,Married,Bachelors,0
+63,57393.45,13442.42,564.0,Retired,24,0,0.41,Married,Bachelors,0
+27,70661.22,12593.12,653.0,Employed,48,0,0.27,Married,PhD,0
+64,53999.48,5898.51,525.0,Employed,12,0,0.41,Divorced,Masters,1
+65,78431.34,8470.26,632.0,Employed,60,0,0.28,Married,Bachelors,0
+44,29407.41,20456.56,546.0,Retired,48,2,0.39,Married,Masters,1
+22,66390.07,14575.03,569.0,Employed,36,0,0.22,Single,High School,0
+52,49459.99,10717.32,789.0,Employed,12,0,0.36,Divorced,High School,0
+58,44175.38,33253.21,812.0,Employed,36,1,0.37,Married,High School,0
+28,66392.77,16552.86,671.0,Employed,48,3,0.26,Single,Masters,0
+22,87624.07,13428.27,694.0,Self-Employed,12,0,0.41,Single,Bachelors,0
+45,57996.14,16734.2,663.0,Unemployed,24,0,0.29,Married,Bachelors,1
+59,42321.81,31098.16,701.0,Employed,24,0,0.29,Divorced,High School,1
+27,66778.58,20212.18,627.0,Employed,48,0,0.32,Single,Bachelors,0
+64,55331.81,23091.7,607.0,Employed,36,1,0.45,Single,Bachelors,1
+61,37186.69,8758.41,473.0,Self-Employed,36,0,0.44,Single,High School,1
+43,53711.18,1000.0,676.0,Self-Employed,24,0,0.35,Single,Masters,0
+44,85042.39,13255.63,763.0,Self-Employed,24,3,0.41,Married,PhD,0
+49,79878.86,19066.15,643.0,Unemployed,60,0,0.39,Single,Masters,0
+30,70003.52,17385.27,771.0,Retired,48,1,0.53,Single,Bachelors,0
+44,62104.09,16055.42,653.0,Self-Employed,24,0,0.47,Single,Bachelors,1
+64,37187.11,26226.96,614.0,Self-Employed,60,2,0.22,Married,Masters,1
+23,68432.56,5959.45,560.0,Employed,48,0,0.51,Divorced,Bachelors,1
+52,93612.68,20771.83,630.0,Employed,36,0,0.02,Married,Masters,0
+28,63221.56,13107.56,850.0,Self-Employed,36,0,0.33,Single,Bachelors,0
+25,43498.69,1000.0,652.0,Employed,24,0,0.28,Single,PhD,0
+55,61883.38,5657.76,657.0,Self-Employed,24,1,0.45,Single,Bachelors,0
+31,32903.06,6830.7,774.0,Employed,12,0,0.63,Divorced,Masters,0
+30,,18478.16,640.0,Unemployed,48,0,0.3,Single,Bachelors,0
+38,83677.36,18278.1,800.0,Employed,36,1,0.5,Divorced,High School,0
+35,32610.46,24467.95,550.0,Employed,24,0,0.42,Divorced,High School,1
+52,46980.95,14580.76,663.0,Self-Employed,12,0,0.39,Married,Bachelors,1
+48,53410.92,6433.18,492.0,Self-Employed,48,0,0.53,Single,Masters,1
+44,62186.02,18628.07,688.0,Employed,36,0,0.41,Married,Bachelors,1
+46,75894.88,15147.21,639.0,Employed,48,0,0.38,Married,Masters,0
+50,61092.94,17976.84,666.0,Employed,24,1,0.43,Divorced,High School,1
+50,54549.51,5545.01,624.0,Employed,36,0,0.45,Single,Bachelors,0
+22,50923.29,7274.68,679.0,Employed,12,1,0.36,Married,Masters,0
+31,53996.16,26490.68,666.0,Employed,24,0,0.33,Single,Bachelors,0
+34,40017.6,9256.65,761.0,Employed,24,0,0.23,Single,Bachelors,0
+39,70361.48,11672.26,687.0,Employed,60,0,0.2,Single,Masters,0
+25,81868.39,14094.98,676.0,Employed,12,0,0.4,Divorced,Bachelors,0
+32,80368.25,21761.26,656.0,Self-Employed,48,1,0.37,Married,PhD,0
+43,77459.36,29254.39,671.0,Employed,12,3,0.64,Married,Masters,1
+55,48328.94,11834.55,665.0,Self-Employed,48,1,0.48,Single,Bachelors,0
+33,68187.52,8088.94,733.0,Employed,36,0,0.45,Married,High School,0
+25,57550.9,25843.54,563.0,Self-Employed,48,3,0.2,Married,Masters,1
+31,,1747.01,615.0,Employed,24,0,0.09,Single,Bachelors,1
+46,41438.48,16112.48,733.0,Self-Employed,60,0,0.67,Single,Bachelors,0
+44,43992.68,18090.59,665.0,Employed,24,0,0.38,Married,Bachelors,1
+43,47084.84,9915.54,662.0,Unemployed,24,0,0.6,Divorced,High School,0
+51,82531.91,18705.48,582.0,Employed,48,1,0.47,Divorced,PhD,1
+51,60790.56,24098.52,530.0,Employed,60,0,0.38,Single,High School,1
+45,25382.82,9443.2,741.0,Self-Employed,36,1,0.31,Divorced,Bachelors,0
+52,40295.16,17298.63,626.0,Self-Employed,24,3,0.41,Married,High School,1
+53,42097.2,28696.32,694.0,Employed,24,1,0.34,Married,Bachelors,1
+55,61789.81,16717.71,627.0,Retired,48,0,0.59,Single,Bachelors,0
+59,,25644.6,773.0,Self-Employed,12,2,0.3,Single,Masters,0
+24,92107.06,21524.01,628.0,Self-Employed,36,0,,Single,Bachelors,0
+42,58944.71,17867.63,829.0,Self-Employed,24,0,0.36,Married,High School,0
+33,35135.39,19125.02,651.0,Employed,36,1,0.17,Married,Masters,0
+25,28271.84,28027.75,738.0,Self-Employed,36,0,0.07,Married,Bachelors,1
+21,30751.73,19044.71,576.0,Self-Employed,36,0,0.4,Married,Bachelors,1
+23,83932.22,4789.56,716.0,Employed,48,0,0.22,Married,Masters,0
+42,51232.17,6807.77,766.0,,24,0,0.52,Married,Bachelors,0
+25,66433.09,2621.57,585.0,Employed,48,1,0.35,Divorced,Bachelors,0
+40,48175.7,15099.99,658.0,Self-Employed,48,1,0.38,Single,Masters,0
+65,41423.03,25546.42,739.0,Employed,36,0,0.44,Divorced,Bachelors,1
+37,57890.33,20648.63,706.0,Retired,12,3,0.54,Single,Bachelors,1
+53,79841.64,24577.98,662.0,Self-Employed,36,0,0.08,Single,High School,0
+42,36155.6,18931.44,592.0,Employed,24,0,0.45,Married,Bachelors,0
+58,53660.2,14505.89,616.0,Self-Employed,12,1,0.44,Married,High School,0
+52,55535.61,17408.86,652.0,Employed,36,1,0.18,Married,Masters,1
+57,39196.31,17773.68,800.0,Employed,24,0,0.58,Divorced,Masters,0
+52,50337.24,1000.0,614.0,Employed,48,0,0.34,Divorced,High School,0
+44,37434.28,11273.56,598.0,Employed,36,2,0.38,Married,Bachelors,1
+63,51892.71,20716.88,584.0,Employed,12,0,0.32,Married,Masters,0
+52,30669.68,27584.16,704.0,Employed,36,0,0.38,Married,Bachelors,0
+49,72932.8,9135.74,601.0,Employed,24,2,0.26,Married,High School,1
+62,27582.64,17017.92,576.0,Employed,36,1,0.25,Married,High School,1
+45,60533.32,18732.36,695.0,Unemployed,24,0,0.21,Married,Bachelors,0
+34,35540.86,14685.54,720.0,Employed,48,0,0.53,Married,High School,0
+52,82061.17,14018.33,708.0,Self-Employed,48,0,0.35,Married,Masters,0
+51,81045.6,28910.81,779.0,Unemployed,36,2,0.48,Married,Masters,0
+61,40533.86,4756.36,553.0,Employed,36,1,0.02,Married,High School,1
+56,46112.38,29544.5,625.0,Unemployed,12,0,0.59,Married,High School,1
+57,48468.91,3758.48,598.0,Employed,48,0,,Married,Masters,0
+34,24535.64,17372.6,689.0,Employed,48,1,0.37,Married,Masters,0
+44,36925.47,27503.11,726.0,Employed,36,0,0.22,Divorced,High School,0
+44,23168.09,29861.62,576.0,Employed,48,0,0.4,Single,Masters,1
+50,48532.74,26106.7,684.0,Employed,24,0,0.32,Single,Masters,0
+43,,1000.0,624.0,Unemployed,36,0,0.12,Married,Bachelors,0
+55,73794.9,18661.49,603.0,Retired,12,0,0.56,Married,Masters,0
+29,88922.55,13416.5,684.0,Employed,48,0,0.38,Married,Masters,0
+28,55788.61,8225.19,764.0,Employed,36,0,0.43,Married,High School,0
+59,42594.62,3823.05,575.0,Unemployed,24,2,0.24,Single,High School,0
+44,40871.83,9263.87,674.0,Employed,60,2,0.35,Married,Bachelors,1
+28,26730.99,12353.69,760.0,Self-Employed,24,0,0.19,Married,Bachelors,0
+49,49555.55,13808.25,654.0,Employed,48,0,0.21,Single,Masters,0
+45,51991.81,33179.48,668.0,Employed,36,0,0.3,Single,High School,0
+56,86247.35,10331.21,716.0,Employed,60,2,0.25,Divorced,High School,0
+43,84401.77,13884.82,652.0,Self-Employed,36,0,0.29,Single,High School,0
+34,41377.69,1000.0,757.0,Retired,60,0,0.44,Divorced,Bachelors,0
+58,65798.72,21678.01,718.0,Unemployed,36,0,0.02,Married,Bachelors,1
+58,72717.8,32750.24,647.0,Unemployed,12,0,0.27,Divorced,Masters,1
+33,50954.22,13904.04,619.0,Unemployed,12,0,0.37,Married,PhD,0
+51,42527.71,5575.67,698.0,Employed,36,0,0.66,Married,Bachelors,0
+35,70680.24,7596.6,456.0,Employed,36,0,0.11,Married,High School,0
+36,25102.7,16451.41,757.0,Employed,12,0,,Divorced,High School,0
+29,49643.86,21774.17,663.0,Unemployed,48,0,0.48,Single,Bachelors,1
+65,101047.59,13292.35,595.0,Unemployed,60,0,0.71,Single,Bachelors,1
+27,54155.43,4845.36,727.0,Employed,60,2,0.02,Single,Bachelors,0
+45,64689.33,10141.16,734.0,Self-Employed,36,2,,Single,Bachelors,1
+37,67605.58,19981.69,755.0,Unemployed,36,3,0.31,Single,High School,1
+27,88860.83,11355.68,690.0,Self-Employed,24,3,0.14,Single,Bachelors,0
+48,48430.85,18406.75,632.0,Employed,36,0,0.48,Single,High School,0
+56,82013.68,16872.2,639.0,Employed,24,0,0.32,Single,Bachelors,1
+46,45798.12,8111.3,736.0,Employed,24,3,0.3,Single,High School,0
+36,24965.49,9734.01,572.0,Self-Employed,48,0,0.5,Married,High School,1
+59,68625.8,1000.0,635.0,Employed,24,2,0.29,Single,High School,0
+26,32962.63,30178.31,709.0,Employed,12,0,0.22,Married,High School,0
+55,32969.08,21175.36,658.0,Employed,12,1,0.38,Single,Bachelors,1
+48,52353.96,24996.95,602.0,Employed,60,0,0.25,Single,Bachelors,0
+22,16238.98,12046.34,783.0,Employed,24,2,0.26,Married,Masters,0
+63,34449.6,24766.57,689.0,Employed,12,2,0.53,Married,Bachelors,1
+36,34365.78,20917.23,694.0,Employed,24,0,0.24,Single,Masters,1
+53,41179.64,12808.06,673.0,Self-Employed,24,2,0.35,Single,Bachelors,0
+40,39025.14,24228.72,543.0,Employed,36,1,0.56,Single,Masters,1
+45,56896.76,11722.51,522.0,Employed,36,0,0.2,Married,High School,0
+25,52808.54,18803.45,676.0,Self-Employed,48,0,0.12,Divorced,Bachelors,0
+58,56019.7,16569.05,685.0,Retired,24,0,0.14,Single,Masters,0
+61,72688.44,17738.7,565.0,Self-Employed,60,0,0.2,Divorced,High School,0
+27,58652.61,10750.29,639.0,Employed,12,1,0.37,Divorced,Masters,1
+27,37382.25,16690.27,815.0,Unemployed,48,0,0.18,Married,Bachelors,0
+23,26624.94,12309.96,649.0,Retired,36,0,0.33,Single,Bachelors,1
+48,101081.52,22162.84,656.0,Employed,36,1,0.23,Single,PhD,0
+23,54288.01,19585.02,624.0,Self-Employed,24,3,0.28,Single,High School,1
+65,85536.21,27507.31,572.0,Employed,36,0,0.45,Married,Bachelors,0
+37,50544.66,13068.02,647.0,Employed,24,2,0.36,Divorced,High School,1
+47,85198.61,23059.55,651.0,Employed,60,0,0.76,Divorced,Bachelors,0
+33,54890.72,25215.72,657.0,Employed,48,1,0.26,Married,Masters,1
+58,66407.98,25964.29,710.0,Employed,36,0,0.31,Married,Bachelors,0
+59,60061.45,19865.97,644.0,Employed,36,3,0.13,Single,Masters,1
+55,87416.93,10437.19,638.0,Self-Employed,24,0,0.49,Married,Bachelors,0
+37,82855.09,6181.66,713.0,Self-Employed,48,0,0.45,Single,Bachelors,0
+35,,10742.65,544.0,Self-Employed,24,0,0.4,Single,Bachelors,1
+45,83179.43,27624.94,738.0,Employed,24,0,0.46,Married,Bachelors,0
+55,46772.27,6380.99,625.0,Employed,24,0,0.2,Married,Bachelors,0
+58,60817.02,14172.55,694.0,Employed,36,0,0.22,Divorced,High School,0
+45,54179.45,13504.83,740.0,Employed,12,0,0.24,Married,Masters,0
+46,15000.0,8229.47,726.0,Retired,60,2,0.55,Single,Masters,1
+42,42545.65,1000.0,648.0,Employed,60,0,0.12,Married,High School,1
+41,51886.97,14380.45,638.0,Employed,36,0,0.35,Single,Bachelors,0
+42,50657.75,24647.96,508.0,Retired,12,0,0.46,Divorced,Bachelors,1
+30,53873.32,21208.22,662.0,Unemployed,36,1,0.41,Single,Masters,1
+43,59488.91,9152.35,701.0,Employed,24,1,0.02,Married,Masters,0
+61,73965.55,13793.3,504.0,Employed,36,0,0.35,Single,Bachelors,0
+46,73956.75,8212.57,590.0,Employed,12,3,0.3,Single,Masters,1
+32,66535.17,5065.92,579.0,Employed,48,1,0.2,Married,High School,0
+28,37510.95,26912.9,570.0,Employed,36,1,0.26,Married,Masters,1
+37,57325.98,20346.72,850.0,Unemployed,24,1,0.38,Single,Masters,0
+39,62853.83,11891.83,665.0,Employed,24,0,0.31,Single,Bachelors,0
+28,55250.73,6264.53,663.0,Employed,60,0,0.44,Single,Bachelors,0
+52,73882.17,23727.84,689.0,Employed,48,0,0.45,Married,Masters,0
+62,81481.07,1538.73,739.0,Employed,12,3,0.26,Divorced,Bachelors,0
+30,39894.23,18345.65,647.0,Employed,48,0,0.38,Married,Bachelors,0
+29,33474.1,11363.62,705.0,Employed,24,3,0.49,Married,High School,1
+34,60784.43,14286.13,685.0,Unemployed,48,0,0.36,Married,High School,0
+60,67990.1,20433.14,682.0,Employed,48,0,0.28,Single,Masters,0
+46,48424.21,30780.34,,Employed,12,0,0.48,Married,Bachelors,1
+40,44504.61,14216.68,636.0,Employed,36,0,0.48,Single,Masters,0
+24,88876.44,15670.61,724.0,Employed,48,0,0.07,Married,High School,0
+44,76937.71,2634.16,644.0,Self-Employed,48,1,0.51,Single,Bachelors,1
+46,58556.79,25606.37,589.0,Employed,48,1,0.41,Married,Masters,0
+37,46968.7,22290.9,649.0,Employed,36,1,0.66,Married,Bachelors,1
+63,49131.58,17043.07,721.0,Employed,36,1,0.36,Single,Bachelors,0
+24,63658.17,18658.24,616.0,Employed,36,3,0.25,Single,Masters,1
+42,65990.54,6663.64,711.0,Employed,12,1,0.48,Married,Masters,0
+59,,3265.72,521.0,Retired,24,0,0.35,Divorced,High School,1
+55,45156.54,7839.44,641.0,Employed,12,0,0.31,Single,Bachelors,1
+43,57403.74,8106.38,512.0,Unemployed,48,0,0.44,Married,High School,1
+54,30963.8,9801.88,643.0,Employed,60,0,0.52,Single,Bachelors,1
+31,31906.14,28054.86,666.0,Employed,36,0,0.09,Single,Masters,0
+28,76621.85,7837.23,709.0,Employed,36,1,0.42,Divorced,Masters,0
+28,60039.44,13388.07,721.0,Employed,24,2,0.51,Single,Bachelors,1
+22,68875.57,22974.87,743.0,Retired,24,0,0.4,Married,High School,0
+23,64657.18,23806.57,810.0,Employed,12,0,0.11,Married,Bachelors,0
+60,44023.91,14352.97,839.0,Unemployed,36,0,0.3,Single,PhD,0
+42,60145.58,8291.31,733.0,Self-Employed,48,2,0.4,Married,High School,0
+32,62448.38,20561.62,636.0,Unemployed,48,0,0.33,Single,Bachelors,1
+52,74859.43,1000.0,643.0,Employed,48,1,0.55,Married,High School,0
+40,59040.13,7298.14,648.0,Retired,60,0,0.45,Single,PhD,0
+37,45035.41,4960.62,574.0,Unemployed,24,0,0.32,Married,Bachelors,1
+54,64534.47,7767.45,712.0,Employed,48,0,0.12,Divorced,Masters,0
+31,77603.61,22323.12,524.0,Employed,36,1,0.26,Single,High School,1
+48,38897.07,10603.68,722.0,Unemployed,60,2,0.26,Married,High School,0
+37,46964.19,15784.54,637.0,Unemployed,24,0,0.29,Married,Bachelors,1
+36,66649.53,7141.65,690.0,Employed,24,0,0.38,Married,Bachelors,0
+21,58750.89,27131.15,714.0,Employed,48,0,0.26,Divorced,Bachelors,0
+42,71643.41,8116.92,638.0,,36,0,0.29,Divorced,Bachelors,0
+26,73718.28,7283.7,544.0,Self-Employed,36,0,0.13,Single,Masters,0
+46,50485.01,31374.9,558.0,Employed,24,0,0.59,Single,High School,1
+62,56288.19,24899.51,564.0,Employed,24,2,0.34,Married,Masters,1
+55,67146.75,2866.86,499.0,Employed,24,2,0.48,Married,Bachelors,1
+56,84504.1,16515.84,708.0,Self-Employed,24,0,0.3,Single,Masters,0
+31,34846.89,6589.52,560.0,Employed,24,0,0.38,Married,High School,1
+57,86540.87,2481.58,772.0,Employed,36,0,0.41,Married,Masters,0
+30,39963.75,9117.57,818.0,Employed,36,0,0.11,Single,High School,0
+44,35009.63,17797.2,747.0,Employed,36,0,0.47,Married,Masters,0
+58,59834.66,16662.42,677.0,Unemployed,24,1,0.29,Divorced,Bachelors,1
+50,65594.41,4306.2,721.0,Employed,24,2,0.1,Married,Masters,0
+61,45001.41,21666.67,792.0,Employed,24,1,0.34,Divorced,High School,0
+64,39702.8,13376.15,621.0,Employed,12,0,0.18,Married,Bachelors,0
+35,70704.23,11268.04,619.0,Unemployed,24,0,0.39,Married,High School,1
+50,61020.22,7906.55,740.0,Employed,24,0,0.34,Married,Bachelors,0
+46,34845.94,17572.75,603.0,Self-Employed,24,0,0.2,Single,Bachelors,0
+58,73176.71,1949.79,601.0,Self-Employed,12,0,0.32,Married,Bachelors,0
+22,44638.52,20036.24,781.0,Retired,24,0,0.39,Single,High School,0
+51,62594.57,14699.43,652.0,Employed,24,0,0.26,Married,Bachelors,0
+52,35738.47,5818.47,620.0,Employed,24,0,0.44,Single,Bachelors,1
+48,49304.65,20769.08,653.0,Retired,12,0,0.27,Married,High School,0
+33,29553.14,30529.74,745.0,Self-Employed,48,0,0.57,Married,Bachelors,0
+51,85058.28,11705.41,589.0,Employed,36,1,0.47,Divorced,Masters,1
+31,45167.6,15628.62,620.0,Retired,48,0,0.53,Married,Masters,1
+46,59333.56,13978.76,645.0,Employed,24,0,0.3,Single,Masters,0
+54,54403.71,14751.53,755.0,Self-Employed,36,0,0.15,Single,High School,0
+40,76431.63,24840.0,608.0,Employed,12,2,0.22,Married,Bachelors,0
+40,54109.65,17365.0,640.0,Employed,12,3,0.24,Married,Masters,1
+26,21402.34,1018.91,630.0,Employed,36,0,0.3,Married,Masters,0
+22,49505.96,7141.57,601.0,Self-Employed,24,0,0.3,Single,High School,1
+22,83394.16,21063.37,690.0,Self-Employed,36,0,0.46,Divorced,Masters,0
+55,55879.48,7381.47,573.0,Employed,24,1,0.42,Married,Masters,0
+21,86874.41,18637.93,636.0,Self-Employed,60,0,,Married,Masters,0
+32,44846.58,11860.23,658.0,Employed,12,0,0.46,Married,Bachelors,0
+50,19441.6,18801.34,703.0,Employed,24,0,0.51,Single,Bachelors,0
+50,70131.58,4053.48,702.0,Employed,12,0,0.3,Single,Bachelors,0
+43,68664.79,15617.25,541.0,Unemployed,36,0,0.22,Married,High School,1
+41,95872.47,24788.55,655.0,Self-Employed,36,0,0.35,Married,High School,0
+43,61636.12,14635.9,706.0,Employed,48,2,0.29,Divorced,High School,0
+25,77098.04,17940.96,550.0,,48,0,0.33,Married,High School,1
+65,99873.99,1000.0,728.0,Employed,60,1,0.08,Married,High School,0
+33,54322.58,17941.19,607.0,Retired,12,1,0.17,Single,Bachelors,0
+57,74305.13,14382.23,744.0,Employed,48,2,0.43,Married,Masters,0
+39,98261.48,13445.85,632.0,Employed,60,0,0.16,Married,Bachelors,0
+31,72195.49,14511.97,750.0,Self-Employed,60,0,0.55,Single,High School,0
+21,55507.26,19256.05,699.0,Retired,36,1,0.23,Married,Bachelors,0
+35,86085.35,12109.52,809.0,Employed,36,1,0.4,Single,PhD,0
+24,46190.09,10145.08,551.0,Employed,36,1,0.5,Married,Bachelors,1
+45,92590.74,28195.85,580.0,Employed,36,1,0.15,Married,PhD,1
+37,96236.97,18647.23,670.0,Employed,48,0,0.32,Single,Masters,0
+27,55280.42,18760.35,769.0,Employed,24,2,0.31,Married,High School,0
+62,53845.51,15581.44,707.0,Employed,12,0,0.35,Single,Bachelors,0
+25,96380.17,14608.82,632.0,Employed,24,0,0.14,Single,Masters,0
+57,46290.05,1000.0,490.0,Employed,36,1,0.58,Divorced,Masters,1
+46,50327.36,8218.93,644.0,Self-Employed,36,0,0.4,Single,High School,0
+64,52299.0,14207.25,664.0,Unemployed,12,0,0.41,Divorced,High School,1
+30,86095.78,1000.0,408.0,Employed,12,0,0.41,Married,Masters,0
+40,37730.09,28033.33,625.0,Employed,36,2,0.46,Married,Bachelors,1
+44,76047.32,16723.17,641.0,Employed,24,0,0.35,Married,Bachelors,0
+31,55331.53,15305.9,714.0,Employed,48,0,0.51,Single,Bachelors,0
+24,50367.22,1000.0,715.0,Self-Employed,36,3,0.32,Single,Bachelors,0
+36,63621.64,14657.41,685.0,Retired,36,0,0.47,Married,High School,1
+65,49191.76,13220.2,715.0,Employed,36,0,0.2,Married,High School,0
+61,63837.55,4693.54,615.0,Self-Employed,12,0,0.34,Married,PhD,0
+48,66703.62,20123.84,672.0,Employed,24,0,0.53,Single,High School,0
+57,67534.97,17583.8,850.0,Employed,60,0,0.15,Single,High School,0
+50,50923.38,1000.0,581.0,Employed,36,1,,Divorced,Masters,0
+24,51237.58,16253.55,689.0,Employed,12,0,0.14,Single,High School,1
+51,76539.37,14268.8,736.0,Employed,60,0,0.68,Married,Bachelors,0
+34,59388.41,1884.13,737.0,Employed,24,1,0.37,Single,Masters,0
+21,67531.71,22218.22,850.0,Employed,48,0,0.35,Married,High School,0
+26,72505.98,2611.05,666.0,Employed,12,0,0.6,Married,Masters,1
+35,43175.9,11764.82,656.0,Unemployed,60,0,0.35,Married,Masters,0
+59,66086.84,13924.03,542.0,Unemployed,48,0,0.23,Married,Bachelors,1
+51,30522.59,11670.44,524.0,Self-Employed,60,0,0.28,Married,High School,0
+39,36854.45,20209.09,691.0,Unemployed,12,0,0.25,Single,PhD,1
+41,92354.7,4702.69,588.0,Employed,36,0,0.53,Married,PhD,0
+25,100484.78,1000.0,727.0,Unemployed,36,1,0.61,Single,High School,0
+30,55054.83,13058.55,684.0,Employed,12,0,0.41,Divorced,Bachelors,0
+64,41403.11,5791.89,690.0,Unemployed,60,0,0.43,Divorced,Masters,1
+32,43969.8,18268.86,754.0,Unemployed,60,0,0.34,Single,PhD,0
+48,46402.17,11341.59,416.0,,24,1,0.35,Single,High School,1
+64,68660.71,7434.03,729.0,Employed,12,0,0.35,Single,Masters,0
+27,71889.11,16470.68,802.0,Unemployed,36,0,0.19,Single,Masters,0
+39,31037.81,27027.36,687.0,Retired,36,1,0.27,Married,High School,1
+21,73524.8,30896.49,714.0,Employed,12,0,0.33,Single,High School,1
+38,49434.9,1000.0,,Self-Employed,48,0,0.02,Single,High School,0
+56,56969.11,9126.61,674.0,Retired,12,1,0.21,Married,Bachelors,0
+50,63544.57,14997.49,721.0,Unemployed,48,2,0.56,Single,Masters,1
+50,65908.18,23360.71,631.0,Employed,36,2,0.16,Married,Masters,0
+45,88281.21,7737.95,696.0,Employed,60,0,0.32,Married,Masters,0
+26,32472.29,18733.37,578.0,Employed,60,0,0.22,Married,Bachelors,0
+65,51814.95,9901.54,562.0,Employed,24,1,0.22,Single,Bachelors,1
+60,58493.62,25366.97,612.0,Employed,12,0,0.5,Divorced,Bachelors,0
+44,35082.53,23244.64,622.0,Self-Employed,48,0,0.19,Married,Masters,0
+21,56472.93,5343.83,584.0,Employed,48,0,0.25,Single,Masters,0
+25,74546.12,29089.5,693.0,Employed,24,0,0.02,Married,Masters,0
+28,36617.81,10168.15,670.0,Employed,12,1,0.32,Single,Masters,1
+60,46679.04,6967.56,529.0,Employed,48,0,0.46,Single,Bachelors,0
+46,93831.55,16700.59,678.0,Employed,60,0,0.43,Married,Bachelors,0
+35,54022.69,3755.46,729.0,Employed,24,1,0.17,Single,Bachelors,0
+52,66192.58,11070.77,591.0,Employed,60,0,0.31,Single,Masters,0
+31,15000.0,13717.12,654.0,Employed,48,0,0.16,Divorced,High School,0
+53,24353.5,7961.49,626.0,Employed,24,1,0.51,Divorced,Bachelors,0
+54,34149.44,7319.63,691.0,Employed,36,0,,Single,Masters,1
+50,81833.07,19592.57,621.0,Self-Employed,48,0,0.29,Married,Masters,0
+55,71842.21,15762.75,730.0,Employed,12,1,0.21,Single,High School,1
+64,77887.99,12892.41,615.0,Employed,24,0,0.27,Single,High School,0
+55,,20171.92,643.0,Retired,36,1,0.17,Single,Bachelors,0
+59,60215.95,6888.83,648.0,Employed,12,2,0.41,Single,Masters,1
+63,53521.28,7408.67,602.0,Employed,60,0,0.52,Divorced,Masters,1
+59,78924.75,10131.28,673.0,Unemployed,24,0,0.38,Divorced,High School,0
+65,53384.76,24784.66,694.0,Self-Employed,24,3,0.19,Single,High School,0
+46,41428.64,6982.26,583.0,Employed,36,0,0.29,Married,Masters,0
+40,80056.04,19177.14,621.0,Employed,12,0,0.15,Divorced,Bachelors,0
+26,30732.66,6528.74,709.0,Employed,36,3,0.55,Single,High School,1
+53,29664.79,6931.56,779.0,Employed,24,0,0.26,Married,High School,0
+35,58798.31,8452.57,739.0,Self-Employed,36,1,0.5,Married,High School,0
+33,35267.05,9338.99,522.0,Employed,36,0,0.43,Married,Masters,1
+38,65753.2,18787.78,551.0,Employed,12,0,0.36,Married,Bachelors,0
+30,40852.19,2508.05,613.0,Employed,36,0,0.02,Married,Bachelors,0
+45,83179.43,27624.94,738.0,Employed,24,0,0.46,Married,Bachelors,0
+42,52487.39,23564.88,740.0,Self-Employed,36,0,0.35,Single,High School,0
+47,28641.25,16363.71,609.0,Employed,48,1,0.36,Married,Masters,1
+57,68097.33,14244.33,700.0,Self-Employed,36,1,0.28,Married,High School,0
+21,63437.94,17505.06,685.0,Unemployed,48,0,0.22,Single,Bachelors,0
+26,35338.37,22051.26,596.0,Retired,24,0,0.46,Married,Masters,0
+43,82242.1,8635.54,657.0,Employed,48,2,0.39,Married,Bachelors,0
+46,56481.11,18150.38,633.0,Employed,12,0,0.25,Divorced,Bachelors,0
+41,67117.26,5626.77,688.0,Unemployed,24,0,0.29,Married,High School,0
+29,49428.16,26450.93,805.0,Retired,24,1,0.27,Married,Bachelors,0
+50,59044.33,6915.21,606.0,Employed,24,0,0.36,Single,Masters,1
+21,44098.92,19047.72,617.0,,24,0,0.37,Single,Masters,0
+51,15000.0,13674.95,671.0,Employed,24,0,0.37,Single,Masters,0
+37,15000.0,12337.12,639.0,Employed,36,0,0.39,Married,Bachelors,0
+61,71493.9,13963.86,526.0,Employed,24,0,0.72,Single,Masters,0
+21,42068.67,28337.79,721.0,Employed,12,0,0.33,Married,Bachelors,1
+30,79762.72,1000.0,654.0,Employed,12,0,0.41,Single,Bachelors,0
+38,78012.13,17636.07,,Self-Employed,24,1,0.6,Married,Bachelors,0
+57,101434.77,30291.35,721.0,Employed,60,1,0.37,Single,PhD,0
+48,58238.09,22827.38,635.0,Self-Employed,12,0,0.56,Divorced,Masters,0
+53,76402.3,16764.33,724.0,Employed,36,0,0.45,Single,High School,0
+49,76510.84,15734.02,816.0,Self-Employed,36,2,0.33,Married,High School,0
+21,37315.23,5425.69,536.0,Employed,36,0,0.27,Single,Bachelors,1
+44,69929.3,35966.34,687.0,Retired,48,0,0.33,Married,Bachelors,1
+49,15000.0,12035.94,635.0,Employed,36,1,0.27,Single,High School,1
+33,45006.41,21953.24,552.0,,48,0,0.37,Single,High School,1
+64,51688.3,15029.57,737.0,Employed,60,0,0.46,Married,High School,0
+65,68227.8,17341.72,521.0,Employed,36,0,0.42,Single,Bachelors,1
+51,66676.78,46409.9,620.0,Self-Employed,12,1,0.39,Single,High School,0
+22,59029.91,26646.58,742.0,Employed,36,0,0.34,Single,Bachelors,0
+47,53284.68,20484.06,506.0,Employed,24,1,0.37,Single,High School,1
+21,54935.15,1760.9,726.0,Employed,60,1,0.36,Married,High School,0
+56,43527.03,6161.1,555.0,Retired,48,0,0.32,Married,Bachelors,0
+38,38401.02,19957.69,760.0,Employed,48,0,0.2,Single,Masters,0
+26,74956.66,18063.91,649.0,Employed,60,0,0.45,Single,High School,0
+65,55483.95,34293.41,685.0,Employed,36,0,0.35,Married,High School,1
+65,31688.58,18183.42,565.0,Employed,24,0,0.19,Single,Bachelors,0
+45,69946.04,8599.69,584.0,Employed,24,0,0.39,Single,Bachelors,0
+62,73573.2,29660.46,629.0,Employed,48,0,0.55,Married,Masters,1
+64,54835.86,17893.29,635.0,Retired,48,0,0.4,Married,Bachelors,0
+43,49233.75,11390.73,701.0,Employed,36,1,0.27,Single,High School,0
+54,53214.83,13475.98,623.0,Retired,12,0,0.12,Married,High School,0
+47,41843.26,10323.06,712.0,Employed,24,0,0.32,Married,Bachelors,0
+65,50576.62,6282.94,565.0,Employed,48,0,0.39,Married,Masters,0
+43,50605.18,15330.61,622.0,Retired,48,1,0.5,Single,Masters,1
+35,60870.39,23654.13,570.0,Employed,48,0,0.15,Married,Masters,1
+28,17678.98,19656.21,621.0,Employed,36,1,0.45,Single,Bachelors,1
+32,37910.82,14408.42,691.0,Employed,48,2,0.27,Married,Bachelors,1
+23,84978.54,27433.28,726.0,Retired,24,0,0.31,Single,Bachelors,0
+54,31657.02,27709.02,705.0,Employed,24,0,0.22,Single,Bachelors,0
+32,54540.03,10555.63,612.0,Self-Employed,24,0,0.23,Single,Bachelors,0
+21,62996.74,19899.75,629.0,Unemployed,24,1,0.23,Divorced,High School,1
+53,57640.85,28797.57,778.0,Employed,12,0,0.37,Married,Bachelors,0
+51,65705.58,14227.01,631.0,Employed,24,0,0.4,Divorced,Masters,0
+21,33001.7,17680.46,556.0,Employed,24,0,0.29,Single,Masters,1
+30,66354.61,18395.15,472.0,Employed,24,1,0.34,Single,Bachelors,1
+53,70010.6,8840.03,625.0,Employed,24,0,0.08,Single,Masters,0
+39,47436.64,22611.59,642.0,Employed,12,1,0.17,Married,Bachelors,0
+50,46611.34,31766.75,617.0,Employed,24,3,0.7,Single,Bachelors,1
+57,40542.78,15984.63,650.0,Employed,36,1,0.13,Married,Bachelors,1
+53,45218.35,7413.22,601.0,Unemployed,24,1,0.66,Single,High School,1
+49,31184.38,12001.42,668.0,Employed,12,0,0.17,Single,Masters,0
+34,78907.49,9600.53,716.0,Retired,36,0,0.65,Single,Bachelors,0
+57,68560.15,23710.16,604.0,Self-Employed,24,0,0.06,Single,High School,0
+29,63265.24,4631.07,590.0,Employed,36,0,0.31,Divorced,Masters,0
+56,76122.53,10087.02,,Employed,36,1,0.51,Single,Masters,0
+23,27716.61,18871.01,715.0,Employed,36,0,0.3,Married,Masters,0
+31,59215.87,12601.29,679.0,Employed,60,1,0.52,Single,Bachelors,0
+57,50674.14,18754.14,613.0,Self-Employed,48,0,0.11,Single,Masters,1
+52,80922.11,12929.16,657.0,Employed,24,1,0.3,Single,High School,0
+39,65554.55,8560.27,631.0,Employed,48,2,0.49,Single,Bachelors,1
+57,50142.25,10146.4,700.0,Self-Employed,36,0,0.24,Single,Masters,0
+62,51671.76,25631.47,664.0,Employed,48,1,0.74,Divorced,High School,1
+53,87325.8,20450.88,510.0,Self-Employed,60,0,0.26,Married,Bachelors,0
+55,45588.52,14503.97,763.0,Unemployed,24,0,0.4,Married,High School,0
+32,55935.03,18356.88,559.0,Employed,36,1,0.13,Married,PhD,1
+39,36281.69,17891.34,781.0,Employed,24,0,0.55,Single,Bachelors,0
+52,66383.34,13585.81,600.0,Self-Employed,24,0,0.3,Married,Bachelors,0
+25,66043.32,10921.55,667.0,Self-Employed,60,0,0.32,Married,Masters,1
+57,39549.56,5955.08,779.0,Employed,36,0,0.27,Married,Masters,0
+59,59298.2,24751.77,638.0,Self-Employed,60,2,0.25,Married,Bachelors,1
+63,,12272.74,699.0,Unemployed,48,1,0.36,Single,PhD,1
+61,45711.19,36544.27,645.0,Employed,36,1,0.34,Single,Masters,1
+23,55517.41,10441.34,744.0,Retired,36,0,0.32,Married,Masters,0
+39,89452.56,1000.0,698.0,Employed,60,0,0.3,Married,High School,0
+43,27540.55,15681.68,680.0,Self-Employed,12,3,0.16,Divorced,High School,1
+38,56026.24,21725.88,694.0,Employed,48,0,0.42,Married,Masters,0
+53,54370.21,14731.1,824.0,Retired,36,0,0.3,Single,Bachelors,0
+53,44726.57,10894.43,596.0,Employed,60,3,0.35,Married,Bachelors,1
+54,33225.49,6262.69,706.0,Employed,60,1,0.34,Single,Bachelors,0
+28,47316.14,17490.47,732.0,Employed,60,0,0.47,Divorced,Masters,0
+54,41396.59,6793.98,670.0,Self-Employed,36,0,0.2,Married,Bachelors,0
+25,,18705.65,754.0,Employed,48,2,0.14,Divorced,Bachelors,0
+26,55613.5,18530.46,,Self-Employed,24,0,0.16,Single,High School,0
+54,38729.66,11975.94,676.0,Self-Employed,12,0,0.26,Divorced,High School,0
+60,65477.76,1000.0,850.0,Self-Employed,48,3,0.22,Married,Masters,0
+42,59241.06,26713.42,521.0,Employed,36,0,0.46,Married,High School,1
+36,65306.49,13757.93,590.0,Employed,12,0,0.27,Married,Bachelors,0
+27,75278.17,27154.27,676.0,Employed,24,1,0.21,Married,Bachelors,1
+65,50843.18,15124.95,745.0,Employed,24,0,,Married,Bachelors,1
+46,78713.09,14250.91,521.0,Unemployed,24,0,,Single,Bachelors,1
+55,54410.44,19777.83,480.0,Retired,24,0,0.4,Married,High School,1
+40,55509.73,12122.96,736.0,Self-Employed,24,0,0.16,Married,Masters,0
+23,49435.9,19432.46,687.0,Employed,36,2,0.28,Single,Bachelors,0
+60,58998.41,14355.2,671.0,Employed,36,0,0.44,Single,High School,0
+57,60558.99,11178.84,577.0,Employed,60,0,0.72,Married,Bachelors,0
+42,57705.43,22081.85,665.0,Unemployed,36,1,0.49,Single,PhD,1
+44,73847.77,13347.11,508.0,Self-Employed,36,0,0.61,Single,High School,1
+39,55730.65,9584.04,688.0,Employed,48,1,0.3,Single,Masters,0
+46,76342.67,16563.85,606.0,Retired,36,2,0.42,Divorced,High School,0
+61,67202.67,32320.45,573.0,Unemployed,12,0,0.24,Married,Masters,1
+44,28385.45,17245.09,591.0,Employed,24,0,0.69,Single,Bachelors,1
+64,45411.38,8500.78,723.0,Employed,60,1,0.24,Single,Masters,0
+42,34677.07,12583.64,648.0,Employed,48,0,0.13,Married,High School,1
+37,57457.64,14394.68,598.0,Employed,36,0,0.37,Single,Masters,0
+45,64697.61,7763.09,749.0,Employed,24,1,0.38,Divorced,Masters,0
+44,54375.67,13052.93,601.0,Employed,48,0,0.12,Married,Masters,0
+25,42724.28,13302.33,707.0,Employed,60,0,0.45,Married,Bachelors,0
+65,65179.17,1000.0,705.0,Employed,60,0,0.51,Single,Bachelors,0
+28,40630.65,18667.09,633.0,Employed,24,1,0.27,Married,Bachelors,0
+34,35827.95,14568.76,717.0,Employed,48,0,0.02,Divorced,Bachelors,1
+55,82512.43,4659.0,681.0,Employed,24,1,0.43,Single,High School,0
+56,66029.93,4654.87,578.0,Unemployed,36,1,0.4,Married,Bachelors,0
+28,31967.61,18706.31,636.0,Employed,36,0,0.38,Married,Bachelors,0
+57,64317.86,1000.0,576.0,Unemployed,36,0,0.12,Single,High School,0
+50,42824.94,17820.04,634.0,Employed,48,0,0.17,Single,Masters,1
+56,79916.91,11880.61,585.0,Employed,48,0,0.26,Married,High School,0
+50,19112.76,20109.28,534.0,Employed,60,0,0.26,Married,PhD,1
+57,48724.26,24604.25,650.0,Retired,36,1,0.33,Married,Bachelors,1
+43,31954.52,22972.56,675.0,Employed,36,0,0.45,Married,Masters,1
+33,57305.88,1000.0,697.0,Employed,36,0,0.53,Single,Bachelors,0
+64,26326.11,2719.68,665.0,Employed,36,0,0.44,Single,PhD,0
+44,53816.5,22883.6,807.0,Employed,36,0,0.43,Married,Bachelors,0
+52,47020.92,18203.85,561.0,Employed,24,0,0.15,Single,High School,1
+42,63279.5,2384.03,502.0,Employed,12,1,0.36,Single,High School,0
+37,69719.79,18595.79,794.0,Employed,12,3,0.12,Married,Bachelors,0
+36,31780.7,6739.81,815.0,Employed,36,0,0.37,Single,Bachelors,0
+55,,26959.51,697.0,Employed,36,0,0.04,Married,Masters,1
+65,64944.82,1000.0,652.0,Employed,12,2,0.11,Married,Bachelors,0
+26,65150.36,16264.43,549.0,Employed,24,1,0.36,Single,Bachelors,1
+31,64746.33,18426.53,705.0,Self-Employed,36,0,0.09,Married,High School,0
+31,53197.23,10748.36,523.0,Employed,24,0,0.24,Divorced,High School,0
+29,55576.07,21893.09,721.0,Employed,48,0,0.23,Single,High School,0
+24,48289.0,1000.0,788.0,Self-Employed,12,0,0.48,Single,High School,0
+48,46858.49,25109.65,740.0,Employed,48,0,0.28,Married,Masters,0
+28,42974.37,17708.42,734.0,Employed,36,0,0.4,Married,High School,0
+45,76366.55,10102.66,713.0,Self-Employed,12,0,0.19,Married,Bachelors,0
+54,52735.84,20583.23,752.0,Self-Employed,36,0,0.49,Married,High School,0
+45,56415.43,23333.8,704.0,Employed,24,1,0.09,Single,Masters,1
+41,56319.72,22530.48,684.0,,48,0,0.36,Married,Bachelors,0
+62,56915.74,4062.9,648.0,Employed,48,0,0.53,Single,High School,1
+53,56730.17,17798.4,593.0,Self-Employed,48,2,0.41,Single,Masters,1
+24,48012.82,19022.28,,Employed,24,0,0.43,Married,High School,0
+41,59030.45,12021.45,599.0,Employed,24,0,0.63,Single,Bachelors,1
+55,73911.78,28243.26,635.0,Employed,48,0,0.09,Married,Masters,1
+31,44028.78,23974.86,605.0,Self-Employed,24,0,0.32,Divorced,Masters,0
+22,60955.84,19825.98,640.0,Retired,36,2,0.18,Married,Bachelors,1
+37,19605.58,23511.53,691.0,Unemployed,24,1,0.17,Single,PhD,0
+46,91109.67,30481.23,715.0,Employed,36,0,0.51,Single,Bachelors,1
+42,35142.25,26076.26,645.0,Employed,24,2,0.17,Single,Masters,1
+60,53219.99,6397.5,692.0,Self-Employed,48,1,0.25,Married,Bachelors,0
+25,43958.75,4073.41,690.0,Unemployed,12,3,0.6,Single,PhD,1
+60,43739.87,4026.61,716.0,Employed,48,2,0.21,Married,Bachelors,0
+55,61612.58,14741.76,693.0,Unemployed,24,2,0.57,Single,Bachelors,1
+26,52822.93,22822.52,632.0,Employed,36,0,0.15,Single,Bachelors,0
+24,98915.54,1000.0,569.0,Employed,36,3,0.56,Single,Bachelors,1
+59,42397.83,14486.49,669.0,Employed,36,0,0.16,Single,Bachelors,0
+56,74695.45,11164.06,,Unemployed,24,0,0.27,Single,Masters,0
+61,43772.16,18604.83,624.0,Unemployed,60,0,0.21,Married,Masters,1
+62,60540.43,30633.26,691.0,Unemployed,48,0,0.13,Single,Masters,1
+44,85175.87,3411.27,550.0,Employed,36,0,0.29,Divorced,Bachelors,0
+24,26980.67,16994.47,683.0,Employed,48,1,0.13,Single,Bachelors,0
+41,47293.93,19424.32,746.0,Employed,12,0,0.49,Married,High School,0
+45,70792.52,15746.98,691.0,Employed,48,0,0.47,Divorced,Masters,0
+36,79554.53,18498.51,689.0,Employed,24,0,0.33,Married,High School,0
+33,59608.54,12318.9,566.0,Self-Employed,36,0,0.24,Married,Bachelors,0
+57,80188.4,1000.0,596.0,Employed,36,1,0.3,Divorced,PhD,0
+29,48713.36,16122.88,698.0,Self-Employed,36,0,0.52,Married,High School,1
+46,51017.43,18553.59,740.0,Self-Employed,24,0,0.18,Single,Masters,0
+53,65665.49,12146.61,677.0,Self-Employed,24,3,0.12,Married,High School,0
+25,59208.15,16831.97,635.0,Retired,24,1,0.36,Married,High School,1
+23,58738.38,10540.62,659.0,Self-Employed,60,3,0.21,Married,Bachelors,1
+64,67739.53,13353.12,653.0,Employed,24,1,0.09,Married,Bachelors,0
+41,57254.04,16481.4,794.0,Employed,60,0,0.45,Single,Masters,0
+52,29647.7,23189.68,739.0,Employed,24,0,0.47,Single,Bachelors,0
+35,65040.59,6881.92,690.0,Employed,36,0,0.6,Married,Bachelors,0
+30,70303.99,13011.77,614.0,Employed,36,0,0.36,Single,High School,0
+21,44098.92,19047.72,617.0,,24,0,0.37,Single,Masters,0
+40,45059.99,24437.8,673.0,Employed,24,0,0.25,Single,Bachelors,0
+35,38091.96,14980.77,563.0,Employed,60,1,0.36,Married,Bachelors,1
+60,51022.64,5958.37,,Employed,24,0,0.19,Married,High School,0
+47,56875.62,4462.94,624.0,Self-Employed,60,1,0.08,Married,High School,1
+22,29469.42,27241.56,619.0,Retired,12,0,0.75,Single,PhD,1
+26,82757.98,19092.0,549.0,Employed,24,3,0.22,Single,High School,1
+43,21325.75,21867.61,525.0,Unemployed,48,1,0.26,Married,Bachelors,1
+27,57056.1,20004.06,677.0,Unemployed,36,0,0.26,Married,Bachelors,0
+50,61236.79,19638.86,715.0,Employed,48,3,0.36,Single,Bachelors,1
+30,31695.73,29039.46,455.0,,36,0,0.3,Single,Bachelors,1
+23,87358.36,17062.02,648.0,Employed,48,1,0.39,Married,Masters,1
+61,83432.3,24975.13,563.0,Employed,24,1,,Single,Masters,1
+56,44673.4,11294.71,672.0,Employed,48,2,0.41,Single,Bachelors,1
+63,76410.47,22612.4,658.0,Unemployed,36,1,0.23,Married,Bachelors,0
+41,76717.16,12700.42,695.0,Self-Employed,60,0,0.58,Single,Bachelors,0
+55,28259.91,21513.21,579.0,Employed,12,0,0.12,Single,High School,1
+45,57152.45,1000.0,528.0,Employed,36,0,0.6,Single,High School,1
+30,50523.56,19589.96,639.0,Employed,36,0,0.52,Married,Masters,0
+48,52663.23,7097.01,756.0,Employed,12,0,0.31,Single,Bachelors,0
+32,74899.47,11131.51,843.0,Self-Employed,36,0,0.4,Married,Masters,0
+39,,10868.56,660.0,Self-Employed,24,0,0.19,Married,PhD,1
+38,99195.4,8301.9,581.0,Employed,36,0,0.17,Single,Masters,0
+49,92357.21,15685.5,590.0,Self-Employed,36,1,0.42,Single,Bachelors,0
+53,47919.9,11606.11,623.0,Employed,24,2,0.27,Married,High School,1
+36,49927.88,12067.94,652.0,Retired,24,0,0.29,Single,High School,1
+29,81160.92,28632.84,685.0,Employed,24,0,0.46,Married,Bachelors,0
+38,30305.78,26607.42,663.0,Unemployed,12,0,0.42,Single,Bachelors,1
+32,46217.59,24524.39,573.0,Employed,24,0,0.47,Single,Bachelors,1
+64,56065.93,21836.2,626.0,Retired,24,2,0.41,Married,High School,1
+37,82778.38,31543.25,699.0,Employed,24,0,0.24,Single,Bachelors,1
+24,70652.91,9917.1,598.0,Employed,36,1,0.43,Married,High School,1
+24,65427.25,1501.25,542.0,Employed,60,0,0.02,Single,Masters,0
+39,50119.78,4606.27,724.0,Employed,60,1,0.27,Single,Bachelors,1
+50,42801.12,8577.4,576.0,Self-Employed,24,1,0.14,Married,High School,0
+33,64900.94,22143.63,616.0,Unemployed,36,0,0.35,Married,Bachelors,1
+29,88782.32,13523.8,574.0,Employed,36,1,0.07,Married,Bachelors,0
+65,24216.97,10954.03,629.0,Self-Employed,12,0,0.21,Single,High School,1
+41,64143.84,13306.66,630.0,Employed,24,2,0.26,Single,Bachelors,0
+48,37569.8,29636.96,697.0,Retired,12,0,0.43,Single,Bachelors,1
+22,43520.68,10137.0,728.0,Employed,12,0,0.36,Single,Bachelors,0
+29,39754.7,7826.86,519.0,Employed,36,1,0.61,Married,Bachelors,1
+31,27538.19,7603.49,652.0,Employed,36,0,0.36,Married,Masters,0
+23,51514.13,7985.81,694.0,Self-Employed,24,0,0.37,Married,High School,0
+49,72353.57,18544.02,604.0,Self-Employed,12,0,0.39,Divorced,Bachelors,0
+41,87302.04,7722.53,762.0,Self-Employed,24,0,0.62,Single,Bachelors,0
+62,77289.1,11898.4,587.0,Employed,24,1,0.39,Married,Bachelors,0
+49,62733.13,19760.24,500.0,Self-Employed,12,1,0.36,Divorced,Bachelors,1
+39,39073.55,16048.52,749.0,Employed,24,0,0.47,Single,Masters,0
+52,42309.79,24493.88,442.0,Employed,60,0,0.31,Married,Masters,1
+51,26295.34,27755.54,626.0,Employed,36,0,0.22,Married,Bachelors,1
+41,65964.49,8016.31,611.0,Employed,24,0,0.03,Single,Bachelors,0
+60,69817.07,16525.08,574.0,Unemployed,36,2,0.2,Divorced,Masters,1
+26,60756.07,10058.87,541.0,Employed,48,0,0.3,Single,High School,0
+55,52343.15,5087.58,577.0,Employed,60,0,0.51,Married,Bachelors,0
+21,46382.52,8335.55,691.0,Self-Employed,60,0,0.27,Married,High School,0
+25,87868.17,9173.82,671.0,Self-Employed,24,1,0.35,Married,High School,0
+52,32936.22,12259.61,681.0,Employed,48,1,0.48,Married,High School,1
+28,44965.15,11656.72,595.0,Employed,12,0,0.29,Single,Bachelors,0
+61,50090.98,8721.9,684.0,Employed,24,1,0.27,Single,Bachelors,0
+65,36589.73,15275.53,611.0,Employed,24,0,0.33,Married,High School,1
+36,74454.05,12184.63,533.0,Employed,24,0,0.21,Married,Masters,1
+62,57676.01,26196.76,721.0,Employed,60,2,0.32,Single,Masters,1
+61,64130.93,1000.0,651.0,Retired,12,0,0.24,Married,Bachelors,0
+56,32018.53,7586.41,704.0,Retired,12,1,0.13,Single,Bachelors,0
+62,83701.09,14114.68,642.0,Employed,36,0,0.28,Divorced,High School,0
+48,83331.76,18574.98,850.0,Self-Employed,36,2,0.29,Divorced,PhD,0
+61,55382.89,11691.07,595.0,Unemployed,60,2,0.41,Married,Bachelors,1
+64,50017.36,23810.58,623.0,Self-Employed,36,0,0.26,Single,High School,0
+21,49153.04,17505.48,695.0,Employed,48,0,0.36,Married,Bachelors,1
+29,62658.24,25178.83,540.0,Employed,36,3,0.45,Single,Bachelors,1
+38,41140.48,9134.75,544.0,Employed,24,0,0.31,Divorced,Bachelors,1
+47,43753.27,15348.12,656.0,Self-Employed,36,1,0.25,Single,Bachelors,1
+23,53229.89,10988.78,665.0,Employed,48,0,0.2,Single,PhD,0
+57,74200.14,21145.66,615.0,Employed,24,2,0.05,Single,PhD,1
+46,44718.78,17673.41,637.0,,24,0,0.35,Married,High School,0
+48,81928.8,25199.0,630.0,Employed,24,3,0.28,Single,Bachelors,1
+41,47654.64,11735.19,627.0,Employed,48,1,0.46,Single,Bachelors,0
+44,51465.7,16148.7,766.0,Unemployed,36,0,0.21,Single,Masters,0
+39,,14748.49,667.0,Employed,24,1,0.55,Married,Bachelors,0
+32,66741.81,24272.59,650.0,Employed,48,0,0.41,Single,Bachelors,1
+50,39690.63,23188.25,551.0,Employed,24,0,0.36,Single,High School,1
+51,76109.12,16635.11,720.0,Employed,36,0,0.41,Single,Bachelors,0
+53,61860.85,11989.59,669.0,Employed,36,2,0.26,Single,High School,0
+59,50410.41,21785.39,570.0,Self-Employed,24,0,0.38,Single,High School,0
+34,43355.14,30101.5,625.0,Employed,48,0,0.06,Single,Bachelors,1
+21,81577.73,18403.92,624.0,Self-Employed,24,0,0.3,Married,Masters,0
+40,42364.15,8818.72,769.0,Self-Employed,36,0,0.35,Married,Bachelors,0
+56,60884.69,12602.59,673.0,Unemployed,48,0,0.49,Single,Bachelors,0
+48,59813.06,5773.2,702.0,Retired,24,0,0.25,Single,Masters,0
+37,21948.3,12359.04,713.0,Retired,12,2,0.3,Married,Bachelors,0
+52,38381.8,29043.81,434.0,Unemployed,36,0,0.51,Single,Bachelors,1
+58,46841.9,4020.28,584.0,Unemployed,24,0,0.22,Married,High School,0
+63,91240.97,14408.22,530.0,Unemployed,60,0,0.56,Single,Bachelors,1
+45,34791.0,26815.48,606.0,Retired,24,0,0.24,Single,Masters,0
+47,39590.49,14491.8,657.0,Employed,36,0,,Married,Masters,0
+31,40990.51,11117.55,797.0,Employed,24,0,0.3,Single,Masters,1
+26,,18318.92,642.0,Retired,24,1,0.23,Single,Bachelors,1
+28,44674.08,5595.24,755.0,Unemployed,36,1,0.19,Divorced,High School,1
+23,58327.05,8933.74,726.0,Employed,36,2,0.09,Married,High School,0
+33,42910.78,8145.82,584.0,Employed,48,0,0.49,Single,High School,1
+57,52255.54,15240.25,596.0,Employed,36,0,0.2,Single,High School,0
+38,43067.78,21641.53,678.0,Employed,24,1,0.45,Single,High School,0
+34,33941.5,14607.77,550.0,Employed,24,0,0.51,Single,Bachelors,1
+64,44843.54,18969.59,611.0,Employed,12,0,0.38,Married,High School,0
+21,74643.58,13274.66,678.0,Employed,24,0,0.13,Single,High School,0
+65,15421.49,22642.4,642.0,Employed,48,0,0.48,Married,Bachelors,1
+29,65241.7,16477.68,617.0,Employed,24,1,0.52,Single,Bachelors,1
+28,62194.38,20563.22,,Employed,12,0,0.68,Married,Bachelors,1
+61,29753.11,22203.19,625.0,Self-Employed,36,0,0.17,Married,Bachelors,1
+36,62052.47,1000.0,661.0,Unemployed,48,1,0.41,Divorced,Bachelors,1
+22,82024.01,16009.42,716.0,Employed,36,1,0.42,Divorced,Masters,0
+25,64411.04,24602.09,655.0,Employed,36,1,0.24,Married,Bachelors,1
+39,43252.77,30898.21,666.0,Retired,24,1,0.1,Married,Bachelors,1
+46,75867.94,13047.36,612.0,Employed,12,0,0.41,Divorced,Bachelors,0
+29,61791.41,11064.78,592.0,Employed,12,0,0.16,Single,Bachelors,0
+42,36970.84,7384.65,678.0,Self-Employed,36,0,0.51,Divorced,High School,0
+24,26735.96,12721.0,544.0,Self-Employed,48,0,0.02,Married,Bachelors,0
+51,61569.3,17011.79,609.0,Unemployed,24,0,0.28,Divorced,High School,1
+59,60447.44,1000.0,556.0,Retired,36,0,0.33,Married,High School,1
+58,53731.02,2608.32,,Employed,36,0,0.42,Single,PhD,0
+22,46302.64,15471.87,,Employed,48,0,0.16,Married,High School,1
+50,43274.48,2845.23,629.0,Employed,60,2,0.53,Single,Masters,1
+25,85810.75,5437.65,606.0,Self-Employed,60,0,0.12,Married,PhD,0
+21,45688.81,12768.93,639.0,Employed,24,0,0.37,Single,High School,1
+41,42956.69,12761.52,621.0,,36,0,0.1,Single,High School,0
+23,45819.7,1000.0,569.0,Employed,36,0,0.33,Married,Masters,0
+47,83107.2,15625.14,576.0,Employed,12,0,0.66,Single,Bachelors,1
+58,91183.68,24831.84,617.0,Employed,24,0,0.26,Single,PhD,0
+28,82909.01,30233.09,559.0,Self-Employed,36,3,0.32,Single,High School,1
+52,54646.52,20701.7,684.0,Employed,36,0,0.38,Single,High School,0
+36,49690.91,20884.98,612.0,Employed,24,0,0.33,Divorced,Masters,0
+48,71529.7,6170.64,636.0,Retired,60,0,0.32,Single,Bachelors,0
+56,58324.25,3912.1,534.0,Employed,24,3,0.53,Married,High School,0
+43,72928.86,18487.8,784.0,Employed,24,0,0.6,Divorced,Bachelors,1
+35,80987.76,27168.05,598.0,Employed,24,0,0.26,Single,Bachelors,0
+32,45078.66,9981.49,727.0,Employed,36,0,0.42,Divorced,High School,1
+61,82071.87,5139.81,610.0,Employed,48,0,0.48,Single,Bachelors,0
+56,56591.32,19001.92,542.0,Unemployed,48,0,0.58,Single,High School,0
+55,61874.84,13513.23,606.0,Self-Employed,36,1,0.5,Divorced,Bachelors,0
+44,72091.97,7282.36,478.0,Employed,36,0,0.47,Married,Masters,1
+22,32596.22,1000.0,780.0,Retired,60,0,0.35,Single,Bachelors,0
+43,53270.92,9947.38,522.0,Retired,24,0,0.28,Single,High School,1
+28,,2219.21,496.0,Employed,24,0,0.46,Married,Bachelors,1
+53,30987.54,20698.58,687.0,Retired,48,2,0.14,Single,High School,1
+58,47524.82,18113.27,742.0,Employed,24,1,0.27,Single,Bachelors,0
+24,58537.38,10768.18,692.0,Employed,24,0,0.33,Single,Bachelors,0
+45,,9783.29,686.0,Employed,36,0,0.43,Married,Bachelors,0
+25,48502.61,6866.53,697.0,Employed,48,0,0.39,Single,High School,0
+39,20988.27,15846.03,619.0,Employed,24,1,0.42,Married,Bachelors,1
+49,68789.45,6107.36,732.0,Employed,36,0,0.33,Single,Bachelors,0
+34,64659.75,19558.08,664.0,Retired,36,0,0.03,Single,Masters,1
+59,72856.76,7496.6,570.0,Self-Employed,12,0,0.21,Married,Bachelors,0
+38,62542.34,9302.23,616.0,Employed,24,0,0.55,Divorced,Bachelors,0
+38,60205.04,10289.07,751.0,Employed,12,3,0.26,Divorced,Bachelors,1
+55,63808.74,20854.97,676.0,Employed,60,0,0.18,Married,Masters,0
+35,61005.92,15464.18,722.0,Employed,48,0,0.5,Divorced,Bachelors,0
+29,54504.73,17646.81,593.0,Self-Employed,36,0,0.42,Single,Bachelors,0
+45,26981.53,21201.24,699.0,Employed,48,1,0.57,Married,Bachelors,1
+26,47806.55,14486.53,589.0,Employed,48,0,0.58,Married,High School,1
+64,75587.57,29068.96,585.0,Employed,24,0,0.22,Married,High School,0
+46,45066.55,12383.86,649.0,Retired,12,1,0.3,Married,High School,0
+44,66172.1,18835.53,595.0,Unemployed,12,0,0.41,Married,Masters,1
+26,85639.87,4958.92,583.0,Employed,24,2,0.31,Single,High School,1
+28,,2219.21,496.0,Employed,24,0,0.46,Married,Bachelors,1
+55,46740.08,16255.78,617.0,Retired,36,0,0.36,Married,High School,1
+22,65942.14,13595.49,587.0,Employed,36,1,0.24,Single,Bachelors,1
+28,60576.77,21059.96,598.0,Employed,12,1,0.37,Single,High School,1
+31,65076.23,11102.38,657.0,Employed,36,0,0.11,Single,High School,1
+59,51634.52,33560.33,562.0,Self-Employed,12,2,0.46,Divorced,High School,1
+29,50160.0,19086.34,666.0,Employed,48,0,0.79,Divorced,Masters,1
+63,53259.16,27258.94,640.0,Self-Employed,48,0,0.44,Single,Masters,1
+42,60432.25,26732.33,605.0,Employed,36,1,0.3,Divorced,Masters,1
+53,59028.18,9657.76,633.0,Self-Employed,36,0,0.14,Divorced,Bachelors,0
+32,73891.95,23661.53,703.0,Employed,36,0,0.64,Married,Bachelors,0
+23,37484.76,4156.42,739.0,Employed,36,2,0.42,Single,Bachelors,0
+32,38827.58,23490.97,850.0,Employed,36,1,0.41,Single,Bachelors,1
+44,49210.57,1000.0,534.0,Employed,24,0,0.22,Married,Bachelors,0
+60,51148.2,13727.64,633.0,Employed,60,1,0.27,Married,PhD,1
+37,57260.38,10177.43,670.0,Employed,36,1,0.29,Single,Masters,0
+38,56160.54,23831.02,650.0,Employed,24,0,0.11,Single,Bachelors,1
+65,73406.27,5765.1,776.0,Employed,36,1,0.44,Single,PhD,0
+60,37029.06,20496.53,540.0,Employed,36,0,0.43,Single,High School,1
+44,93938.59,25057.19,661.0,Employed,48,0,0.42,Divorced,Masters,0
+35,23305.44,20319.42,646.0,Employed,48,0,0.44,Married,Bachelors,0
+40,62920.26,22008.37,850.0,Retired,24,0,0.19,Married,Bachelors,0
+25,66569.01,8403.89,646.0,Unemployed,36,1,0.55,Single,Bachelors,1
+47,58048.49,20323.33,704.0,Unemployed,36,0,0.06,Divorced,Masters,0
+36,71013.35,17949.87,592.0,Employed,24,2,0.02,Single,Masters,1
+34,51936.68,10985.73,563.0,Unemployed,24,0,0.16,Married,PhD,0
+27,65012.14,11775.39,773.0,Employed,36,0,0.41,Single,High School,0
+35,52155.86,16578.34,599.0,Employed,36,0,0.71,Single,High School,0
+59,102382.88,11386.72,760.0,Employed,24,0,0.38,Married,Bachelors,0
+53,54306.85,16793.73,662.0,Self-Employed,48,1,0.02,Single,Bachelors,1
+65,71701.12,13823.8,672.0,Self-Employed,24,0,0.36,Single,Bachelors,1
+35,32479.96,4502.25,596.0,Self-Employed,24,0,0.46,Married,High School,0
+49,45094.51,28879.49,542.0,Unemployed,48,0,0.4,Married,Masters,1
+35,51158.03,27718.71,529.0,Unemployed,36,0,0.22,Single,Masters,1
+32,51567.72,5705.73,606.0,Employed,36,0,0.2,Single,Bachelors,0
+54,54561.62,11708.59,759.0,Self-Employed,24,0,0.52,Divorced,Masters,1
+22,57196.18,8565.47,709.0,Self-Employed,48,2,0.53,Married,PhD,0
+47,30172.25,1000.0,625.0,Employed,36,0,0.46,Single,Bachelors,1
+36,43783.47,10613.85,598.0,Self-Employed,60,0,0.49,Divorced,High School,1
+33,76978.61,19021.96,664.0,Employed,12,0,0.33,Single,Bachelors,0
+35,29680.1,13364.23,730.0,Employed,12,0,0.17,Divorced,High School,0
+54,63757.03,17063.81,784.0,Self-Employed,24,1,0.5,Married,High School,0
+32,48831.62,17083.54,619.0,Employed,60,0,,Single,Bachelors,1
+33,81595.54,10731.2,544.0,Employed,24,1,0.4,Married,High School,0
+29,55469.64,19465.12,743.0,Employed,48,0,0.31,Married,High School,1
+49,45191.46,18998.91,476.0,Employed,48,0,0.59,Married,Bachelors,1
+34,68357.72,23847.2,653.0,Self-Employed,24,0,0.33,Single,Masters,0
+64,88240.73,11002.16,672.0,Retired,36,0,0.31,Divorced,Bachelors,0
+42,38427.88,24382.05,564.0,Employed,36,1,0.29,Single,High School,1
+34,62441.83,10005.24,611.0,Employed,36,0,0.15,Married,PhD,0
+48,67568.02,19452.42,499.0,Employed,24,0,0.25,Single,Masters,1
+26,71817.76,27724.66,581.0,Employed,12,0,0.19,Married,Masters,1
+59,18313.76,7033.48,655.0,Employed,24,0,0.25,Divorced,Bachelors,0
+45,51636.31,14065.87,611.0,Employed,48,2,0.21,Single,High School,1
+54,44097.13,23215.89,646.0,Retired,60,1,0.48,Single,High School,0
+43,25212.58,23572.35,618.0,Self-Employed,12,0,0.27,Married,Bachelors,1
+65,56382.79,16618.63,657.0,Unemployed,60,0,0.46,Married,Masters,0
+40,69010.5,24445.13,696.0,Unemployed,24,0,0.38,Single,Bachelors,0
+62,61337.0,21219.26,751.0,Employed,24,0,0.26,Married,Bachelors,0
+26,23306.27,31423.78,769.0,Employed,36,0,0.12,Married,High School,0
+59,50550.81,15576.29,745.0,,48,3,0.35,Married,Bachelors,0
+30,56003.05,11455.65,655.0,Employed,60,0,0.3,Divorced,Masters,0
+40,61256.47,25731.81,715.0,Employed,36,0,0.39,Divorced,Bachelors,0
+31,44550.58,16402.29,720.0,Employed,24,0,0.48,Single,High School,0
+21,61994.41,26348.25,789.0,Employed,36,0,,Married,High School,0
+34,57707.54,18111.83,709.0,Employed,36,0,0.54,Single,High School,0
+46,44939.41,14070.17,448.0,Employed,24,0,0.02,Married,High School,1
+62,55835.86,21004.63,686.0,Employed,60,0,0.35,Married,High School,0
+58,51884.71,18458.1,632.0,Employed,48,0,0.42,Single,Bachelors,0
+43,53547.1,25235.72,644.0,Employed,36,0,0.46,Single,Masters,1
+64,65255.81,24084.96,734.0,Employed,48,0,0.54,Single,Bachelors,0
+53,41936.61,12627.14,669.0,Employed,36,0,0.32,Single,Bachelors,0
+60,66618.72,11399.9,,Employed,36,0,0.64,Divorced,High School,1
+39,49947.85,8980.52,817.0,Employed,24,0,0.38,Divorced,High School,0
+48,47125.75,26090.8,705.0,Employed,12,2,0.5,Married,High School,1
+46,44875.6,9027.37,786.0,Employed,36,0,0.27,Married,Bachelors,0
+32,67621.11,12858.87,533.0,Self-Employed,12,1,0.19,Divorced,Bachelors,1
+46,75677.78,14252.91,681.0,Employed,24,0,0.23,Married,PhD,0
+55,19032.39,19668.35,564.0,Employed,36,2,0.55,Married,High School,1
+22,63879.72,16560.2,639.0,Employed,48,1,0.42,Married,Masters,0
+47,63506.75,10752.23,521.0,Employed,12,2,0.22,Divorced,High School,1
